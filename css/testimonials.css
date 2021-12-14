@@ -1,0 +1,213 @@
+Body{
+	background-color: hsl(210, 46%, 95%);
+}
+div > blockquote{
+	font: 13px Barlow Semi Condensed, sans-serif;
+	font-weight: 600;
+	opacity: 70%;
+}
+div > h1{
+	font: normal 13px Barlow Semi Condensed, sans-serif;
+	font-weight: 600;
+}
+div > h2{
+	font: normal 13px Barlow Semi Condensed, sans-serif;
+	font-weight: 600;
+	opacity: 50%;
+}
+div > p{
+	font: normal 18px Barlow Semi Condensed, sans-serif;
+	font-weight: 600;
+}
+#DanielQuote{
+	border-radius: 00px;
+	border: 0px;
+	position: absolute;
+	left: 400px;
+	width: 150px;
+}
+.Grid{
+	position: relative;
+	height: 700px;
+	width: 1400px;
+	top: 30px;
+	left: 50px;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: 330px 330px;
+	grid-gap: 20px;
+}
+.Daniel{
+	grid-column-start: 1;
+	grid-column-end: 3;
+	border-radius: 10px;
+	background-color: hsl(263, 55%, 52%);
+	color: hsl(0, 0%, 100%);
+}
+.DanielPic{
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	border-radius: 50px;
+	border: 3px solid hsl(276, 90%, 75%);
+}
+.Name1{
+	position: absolute;
+	top: 35px;
+	left: 110px;
+}
+.Ver1{
+	position: absolute;
+	top: 50px;
+	left:110px;
+}
+.Testimonials1{
+	position: absolute;
+	top: 90px;
+	left: 40px;
+}
+.Quote1{
+	position: absolute;
+	top: 200px;
+}
+.Jonathan{
+	border-radius: 10px;
+	background-color: hsl(217, 19%, 35%);
+	color: hsl(0, 0%, 100%);
+}
+.JonathanPic{
+	position: absolute;
+	top: 35px;
+	left: 730px;
+	border-radius: 50px;
+	border: 3px hsl(0, 0%, 100%);
+}
+.Name2{
+	position: absolute;
+	top: 35px;
+	left: 800px;
+}
+.Ver2{
+	position: absolute;
+	top: 50px;
+	left:800px;
+}
+.Testimonials2{
+	position: absolute;
+	top: 90px;
+	left: 750px;
+	
+}
+.Quote2{
+	position: absolute;
+	top: 200px;
+}
+.Kira{
+	grid-column-start: 4;
+	grid-column-end: 5;
+	grid-row-start: 1;
+	grid-row-end: 3;
+	border-radius: 10px;
+	background-color: hsl(0, 0%, 100%);
+}
+.KiraPic{
+	position: absolute;
+	top: 30px;
+	left: 1100px;
+	border-radius: 50px;
+	border: 3px solid hsl(0, 0%, 100%);
+}
+.Name3{
+	position: absolute;
+	top: 35px;
+	left: 1180px;
+	color: hsl(217, 19%, 35%);
+	
+}
+.Ver3{
+	position: absolute;
+	top: 50px;
+	left: 1180px;
+	color: hsl(217, 19%, 35%);
+}
+.Testimonials3{
+	position: absolute;
+	top: 100px;
+	left: 1100px;
+	color: hsl(217, 19%, 35%)
+}
+.Quote3{
+	position: absolute;
+	top: 200px;
+	left: 1050px;
+	color: hsl(217, 19%, 35%)
+}
+.Jeanette{
+	border-radius: 10px;
+	background-color: hsl(0, 0%, 100%);
+}
+.JeanettePic{
+	position: absolute;
+	top: 370px;
+	left: 30px;
+	border-radius: 50px;
+	border: 3px solid hsl(0, 0%, 100%);
+}
+.Name4{
+	position: absolute;
+	top: 380px;
+	left: 100px;
+	color: hsl(217, 19%, 35%);	
+}
+.Ver4{
+	position: absolute;
+	top: 395px;
+	left: 100px;
+	color: hsl(217, 19%, 35%);
+}
+.Testimonials4{
+	position: absolute;
+	top: 450px;
+	left: 35px;
+	color: hsl(217, 19%, 35%)
+}
+.Quote4{
+	position: absolute;
+	top: 550px;
+	left: 0px;
+	color: hsl(217, 19%, 35%)
+}
+.Patrick{
+	grid-column-start: 2;
+	grid-column-end: 4;
+	border-radius: 10px;
+	background-color: hsl(219, 29%, 14%);
+	color: hsl(0, 0%, 100%);
+}
+.PatrickPic{
+	position: absolute;
+	top: 380px;
+	left: 400px;
+	border-radius: 50px;
+	border: 3px solid hsl(276, 90%, 75%);
+}
+.Name5{
+	position: absolute;
+	top: 385px;
+	left: 480px;	
+}
+.Ver5{
+	position: absolute;
+	top: 400px;
+	left: 480px;	
+}
+.Testimonials5{
+	position: absolute;
+	top: 450px;
+	left: 400px;	
+}
+.Quote5{
+	position: absolute;
+	top: 550px;
+	left: 350px;
+}
